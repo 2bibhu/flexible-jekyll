@@ -12,5 +12,6 @@ Hey guys! First of all thank you for visiting my profile. I'm a student learning
 
 ## Fraud detection
 Machine Learning methods for fraud detection can be divided into supervised and unsupervised models, where supervised methods demand a big amount of data, such as fraudulent and non-fraudulent transactions in equal amounts to train the model. Unsupervised methods search patterns and correlations in the raw data and the prediction is built without the additional labeling. Supervised ML methods are considered to be more accurate while unsupervised take much less time to prepare.
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/2bibhu/frauddetection)
-![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
+![Fraud Detection]({{site.baseurl}}/assets/img/software.jpg)
