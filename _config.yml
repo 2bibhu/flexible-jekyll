@@ -10,11 +10,11 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Bibhu Sahoo # add your name
 author-img: bibhu.jpg # add your photo
-about-author: Data Science and Machine Learning enthusiast. Senior IT professional with all round skills to deliver outstanding results in competitive environments. Always hungry to keep learning.# add description
+about-author: Data Science and Machine Learning enthusiast. Senior IT professional with all round skills to deliver outstanding results in competitive environments. Always hungry to keep learning. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: 2bibhu # add your Github handle
-social-linkedin: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_top_card%3BV1arEr98QjWk5li7Ac0b%2BQ%3D%3D# add your Linkedin handle
+social-linkedin: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_top_card%3BV1arEr98QjWk5li7Ac0b%2BQ%3D%3D # add your Linkedin handle
 social-email: 2bibhu@gmail.com# add your Email address
 
 # Disqus
