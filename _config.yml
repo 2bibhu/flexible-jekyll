@@ -19,7 +19,7 @@ social-linkedin: https://www.linkedin.com/public-profile/settings?trk=d_flagship
 social-email: 2bibhu@gmail.com # add your Email address
 
 # Disqus
-#discus-identifier: # add your discus identifier
+discus-identifier: # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
