@@ -6,9 +6,16 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: software.jpg # Add image post (optional)
 tags: [LLM, RAG, GraphRAG] # add tag
 ---
-
+###
 Knowledge graphs and Generative AI have been identified as the most impactful emerging technology expected to remain pertinent in the upcoming year according to Gartner.
+
 Enterprise adoption of Gen AI is still in its early innings where deployment of large language models have gone complex requiring customization using fine-tuning and Retrieval-Augmented Generation(RAG) techniques.
+<figure>
+    <img src="https://emt.gartnerweb.com/ngw/globalassets/en/industries/images/infographics/critical-enablers.png"
+         alt="RAG">
+    <figcaption>Knowledge Graph and Gen AIfigcaption>
+</figure>
+
 
 ### Church-key blog messenger bag
 
